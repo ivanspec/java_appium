@@ -49,6 +49,10 @@ Mobile automation using java with Appium and Cucumber.
     └── README.md
 
 ### How to Getting Started
+* APK Test
+
+  Please download APK Test here : https://drive.google.com/file/d/11YLz8w9ML5VilEkriW64Ea50suxZCtpI/view?usp=sharing
+  And extract this zip in this repo. If link not work, please contact me.
 
 * Start AppiumServer port 4723
 * Start emulator / connect real device, and attach with "adb device"
